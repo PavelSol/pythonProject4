@@ -9,8 +9,9 @@ for i in range(0, n):
         c += 1
     mat.append(b)
 mat2 = [[0]*n]*n
-print(mat2)
-mat2[0] = mat[0]
-print(mat2)
+print(mat)
+
+
+
 
 
